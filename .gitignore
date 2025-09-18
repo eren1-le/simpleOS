@@ -1,0 +1,10 @@
+# Compiled Static LIbraries
+*.a
+*.lib
+*.la
+*.lai
+#Executables
+*.exe
+*.out
+*.app*
+.bin
